@@ -1,0 +1,7 @@
+[gd_resource type="Theme" load_steps=2 format=3 uid="uid://cpckw12m0xchx"]
+
+[ext_resource type="FontFile" uid="uid://b4yayutb160ls" path="res://Scenes/Bebas-Regular.ttf" id="1_k1c1e"]
+
+[resource]
+default_font = ExtResource("1_k1c1e")
+default_font_size = 50

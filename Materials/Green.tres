@@ -1,0 +1,8 @@
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://bqwpy180bl1sh"]
+
+[ext_resource type="Texture2D" uid="uid://bgvaum07jhcs2" path="res://Sprites/Dark/texture_01.png" id="1_jcjar"]
+
+[resource]
+albedo_texture = ExtResource("1_jcjar")
+uv1_scale = Vector3(35, 35, 35)
+point_size = 128.0

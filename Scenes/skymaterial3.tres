@@ -1,0 +1,6 @@
+[gd_resource type="PanoramaSkyMaterial" load_steps=2 format=3 uid="uid://1gxe37feis4"]
+
+[ext_resource type="Texture2D" uid="uid://dcsc1ssyjrby8" path="res://Bentley.webp" id="1_xeioa"]
+
+[resource]
+panorama = ExtResource("1_xeioa")
